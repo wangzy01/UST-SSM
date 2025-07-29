@@ -1,7 +1,3 @@
-Of course\! Here is a polished and enhanced version of your README file in English.
-
------
-
 # UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling 🚀
 This repository contains the official PyTorch implementation for the paper: **"UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling"**, accepted at ICCV 2025.
 
