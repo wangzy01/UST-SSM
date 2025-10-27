@@ -113,10 +113,11 @@ This work builds upon the excellent codebase of [PSTNet](https://github.com/hehe
 If you find our work useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{li2025ust,
+@inproceedings{li2025ust,
   title={UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling},
   author={Li, Peiming and Wang, Ziyi and Yuan, Yulin and Liu, Hong and Meng, Xiangming and Yuan, Junsong and Liu, Mengyuan},
-  journal={arXiv preprint arXiv:2508.14604},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={6738--6747},
   year={2025}
 }
 ```
